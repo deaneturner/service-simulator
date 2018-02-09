@@ -1,0 +1,147 @@
+[
+    {
+        "person": {
+            "iri": "",
+            "systemId": "0u0bc8l3akosngk5udsrg3eb_integra",
+            "type": null,
+            "lastName": "Joe",
+            "firstName": "Leader",
+            "userName": "sLeader"
+        },
+        "siteId": "integration12",
+        "default": "ROLE_LEADER",
+        "roles": [
+            "ROLE_LEADER"
+        ]
+    },
+    {
+        "person": {
+            "iri": "",
+            "systemId": "0u0bc8l3akosngk5udsrg3eb_integra",
+            "type": null,
+            "lastName": "Helms",
+            "firstName": "Anthony",
+            "userName": "sStu5"
+        },
+        "siteId": "integration12",
+        "default": "ROLE_STUDENT",
+        "roles": [
+            "ROLE_STUDENT",
+            "ROLE_RTNG",
+            "ROLE_R180NG",
+            "ROLE_SRC",
+            "ROLE_FMNG",
+            "ROLE_SPI",
+            "ROLE_USER",
+            "ROLE_M180"
+        ]
+    },
+    {
+        "person": {
+            "iri": "",
+            "systemId": "v7qoq7u3dbq3c010p4uo863u_integra",
+            "type": null,
+            "lastName": "Teacher",
+            "firstName": "Miami",
+            "userName": "mTeacher"
+        },
+        "siteId": "integration12",
+        "default": "ROLE_TEACHER",
+        "roles": [
+            "ROLE_USER",
+            "ROLE_SLMS",
+            "ROLE_TEACHER"
+        ]
+    },
+    {
+        "person": {
+            "iri": "",
+            "systemId": "v7qoq7u3dbq3c010p4uo863u_integra",
+            "type": null,
+            "lastName": "Teacher",
+            "firstName": "Demo",
+            "userName": "demoteacher"
+        },
+        "siteId": "integration12",
+        "default": "ROLE_TEACHER",
+        "roles": [
+            "ROLE_USER",
+            "ROLE_SLMS",
+            "ROLE_TEACHER"
+        ]
+    },
+    {
+        "person": {
+            "iri": "",
+            "systemId": "v7qoq7u3dbq3c010p4uo863u_integra",
+            "type": null,
+            "lastName": "teacher",
+            "firstName": "teacher1",
+            "userName": "Teacher"
+        },
+        "siteId": "integration12",
+        "default": "ROLE_TEACHER",
+        "roles": [
+            "ROLE_S44JR",
+            "ROLE_USER",
+            "ROLE_SLMS",
+            "ROLE_M180",
+            "ROLE_TEACHER"
+        ]
+    },
+    {
+        "person": {
+            "iri": "",
+            "systemId": "v7qoq7u3dbq3c010p4uo863u_integra",
+            "type": null,
+            "lastName": "Parent",
+            "firstName": "Parent1",
+            "userName": "sParent"
+        },
+        "siteId": "integration12",
+        "default": "ROLE_PARENT",
+        "roles": [
+            "ROLE_S44JR",
+            "ROLE_USER",
+            "ROLE_SLMS",
+            "ROLE_M180",
+            "ROLE_PARENT"
+        ]
+    },
+    {
+        "type": null,
+        "person": {
+            "iri": null,
+            "systemId": "q9vqapm7snh83ehcoj39osan_integra",
+            "type": null,
+            "lastName": "Administrator",
+            "firstName": "District",
+            "userName": "sAdmin"
+        },
+        "siteId": "integration12",
+        "default": "ROLE_DISTRICT_ADMINISTRATOR",
+        "roles": [
+            "ROLE_USER",
+            "ROLE_SLMS",
+            "ROLE_SCHOOL_ADMINISTRATOR"
+        ]
+    },
+    {
+        "type": null,
+        "person": {
+            "iri": null,
+            "systemId": "q9vqapm7snh83ehcoj39osan_integra",
+            "type": null,
+            "lastName": "Administrator",
+            "firstName": "District",
+            "userName": "tAdmin"
+        },
+        "siteId": "integration12",
+        "default": "ROLE_DISTRICT_ADMINISTRATOR",
+        "roles": [
+            "ROLE_USER",
+            "ROLE_SLMS",
+            "ROLE_DISTRICT_ADMINISTRATOR"
+        ]
+    }
+]

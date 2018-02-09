@@ -1,0 +1,286 @@
+[
+    {
+        "userId": "mTeacher",
+        "iri": "/api/organizations/01A0212FBA12E2230DBFEDF646595D72/classes/005mrcaetddah3frssnn841u_h910h03",
+        "systemId": "005mrcaetddah3frssnn841u_h910h03",
+        "schoolId": "5mec8mrt7sfcf8lmokd62o4s_h910h03",
+        "name": "CLASS 1: History 1A",
+        "displayName": "CLASS 1: History 1A",
+        "selected": false,
+        "teacherNameList": [
+            {
+                "id": 12,
+                "schoolId": "5mec8mrt7sfcf8lmokd62o4s_h910h04",
+                "firstName": "Miami",
+                "MI": "",
+                "lastName": "Teacher"
+            }
+        ],
+        "gradeList": [
+            {
+                "iri": "Aaa7hai45bya7t",
+                "name": "5th"
+            },
+            {
+                "iri": "27cchhai44bww9",
+                "name": "6th"
+            },
+            {
+                "iri": "1hnhxhaxxi32bwg",
+                "name": "9th"
+            }
+        ],
+        "productList": [
+            {
+                "iri": "106cybff2R1Y3RzL1IxO2ah",
+                "name": "System 44 NG",
+                "selected": false,
+                "autoPlacement": false,
+                "promoteStudent": false,
+                "studentNextLevel": 0,
+                "languages": [
+                    {
+                        "iri": 1,
+                        "id": 1,
+                        "name": "English"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "userId": "mTeacher",
+        "iri": "/api/organizations/01A0212FBA12E2230DBFEDF646595D72/classes/07f2mo7ukm1066ir4goprdkj_h910h03",
+        "systemId": "07f2mo7ukm1066ir4goprdkj_h910h04",
+        "name": "CLASS 2: Geometry 2C",
+        "displayName": "CLASS 2: Geometry 2C",
+        "schoolId": "5mec8mrt7sfcf8lmokd62o4s_h910h03",
+        "selected": true,
+        "teacherNameList": [
+            {
+                "id": 12,
+                "schoolId": "5mec8mrt7sfcf8lmokd62o4s_h910h04",
+                "firstName": "Miami",
+                "MI": "",
+                "lastName": "Teacher"
+            },
+            {
+                "id": 8,
+                "schoolId": "5mec8mrt7sfcf8lmokd62o4s_h910h04",
+                "firstName": "Steven",
+                "MI": "",
+                "lastName": "Merberg"
+            }
+        ],
+        "gradeList": [
+            {
+                "iri": "Z5aadyYWRlc2s1",
+                "name": "Pre"
+            },
+            {
+                "iri": "Z5dyYbbxxlc2sh",
+                "name": "1st"
+            },
+            {
+                "iri": "L2dyYWbbRlcy8y",
+                "name": "2nd"
+            },
+            {
+                "iri": "A7hai99bbbya7x",
+                "name": "3rd"
+            },
+            {
+                "iri": "A7hai66bxabb7t",
+                "name": "4th"
+            }
+        ],
+        "productList": [
+            {
+                "iri": "101cyb2R1Y3RzL1ttIxO2za",
+                "name": "Read 180 Universal",
+                "selected": false,
+                "autoPlacement": false,
+                "promoteStudent": false,
+                "studentNextLevel": 0,
+                "languages": [
+                    {
+                        "iri": 1,
+                        "id": 1,
+                        "name": "English"
+                    },
+                    {
+                        "iri": 2,
+                        "id": 2,
+                        "name": "Spanish"
+                    },
+                    {
+                        "iri": 3,
+                        "id": 3,
+                        "name": "Russian"
+                    },
+                    {
+                        "iri": 4,
+                        "id": 4,
+                        "name": "Haitian Creole"
+                    }
+                ]
+            },
+            {
+                "iri": "102cyb2aaR1Y3RzL1IxO2zb",
+                "name": "Do the Math",
+                "selected": false,
+                "autoPlacement": false,
+                "promoteStudent": false,
+                "studentNextLevel": 0,
+                "languages": [
+                    {
+                        "iri": 1,
+                        "id": 1,
+                        "name": "English"
+                    },
+                    {
+                        "iri": 2,
+                        "id": 2,
+                        "name": "Spanish"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "userId": "mTeacher",
+        "iri": "/api/organizations/01A0212FBA12E2230DBFEDF646595D72/classes/649bmo7ukm1066ir4goprdkj_h91825a",
+        "systemId": "649bmo7ukm1066ir4goprdkj_h91825a",
+        "name": "CLASS 3: Latin 3D",
+        "displayName": "CLASS 3: Latin 3D",
+        "schoolId": "5mec8mrt7sfcf8lmokd62o4s_h910h03",
+        "selected": false,
+        "teacherNameList": [
+            {
+                "id": 12,
+                "schoolId": "5mec8mrt7sfcf8lmokd62o4s_h910h04",
+                "firstName": "Miami",
+                "MI": "",
+                "lastName": "Teacher"
+            },
+            {
+                "id": 3,
+                "schoolId": "5mec8mrt7sfcf8lmokd62o4s_h910h03",
+                "firstName": "Tim",
+                "MI": "",
+                "lastName": "Brookes"
+            }
+        ],
+        "gradeList": [
+            {
+                "iri": "Z5aadyYWRlc2s1",
+                "name": "Pre"
+            },
+            {
+                "iri": "Z5dyYbbxxlc2sh",
+                "name": "1st"
+            },
+            {
+                "iri": "8ehcchai3c2b2sm",
+                "name": "7th"
+            },
+            {
+                "iri": "y0hhvvfai32bz2j",
+                "name": "8th"
+            },
+            {
+                "iri": "1hnhxhaxxi32bwg",
+                "name": "9th"
+            }
+        ],
+        "productList": [
+            {
+                "iri": "101cyb2R1Y3RzL1ttIxO2za",
+                "name": "Common Core",
+                "selected": false,
+                "autoPlacement": false,
+                "promoteStudent": false,
+                "studentNextLevel": 0,
+                "languages": [
+                    {
+                        "iri": 1,
+                        "id": 1,
+                        "name": "English"
+                    },
+                    {
+                        "iri": 2,
+                        "id": 2,
+                        "name": "Spanish"
+                    },
+                    {
+                        "iri": 3,
+                        "id": 3,
+                        "name": "Russian"
+                    },
+                    {
+                        "iri": 4,
+                        "id": 4,
+                        "name": "Haitian Creole"
+                    }
+                ]
+            },
+            {
+                "iri": "104cyb2R1Y3RzL111IxO2ah",
+                "name": "FASST Math Next Generation",
+                "selected": false,
+                "autoPlacement": false,
+                "promoteStudent": false,
+                "studentNextLevel": 0,
+                "languages": [
+                    {
+                        "iri": 1,
+                        "id": 1,
+                        "name": "English"
+                    }
+                ]
+            },
+            {
+                "iri": "105cyb2R1Ycc3RzL1IxO2ah",
+                "name": "Math 180 Course I",
+                "selected": false,
+                "autoPlacement": false,
+                "promoteStudent": false,
+                "studentNextLevel": 0,
+                "languages": [
+                    {
+                        "iri": 1,
+                        "id": 1,
+                        "name": "English"
+                    }
+                ]
+            },
+            {
+                "iri": "106cybff2R1Y3RzL1IxO2ah",
+                "name": "Read 180 Course I",
+                "selected": false,
+                "autoPlacement": false,
+                "promoteStudent": false,
+                "studentNextLevel": 0,
+                "languages": [
+                    {
+                        "iri": 1,
+                        "id": 1,
+                        "name": "English"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "userId": "",
+        "iri": "",
+        "systemId": "-1",
+        "name": "",
+        "displayName": "",
+        "schoolId": "",
+        "teacherNameList": [],
+        "gradeList": [
+        ],
+        "productList": []
+    }
+]
